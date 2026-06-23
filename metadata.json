@@ -1,0 +1,6 @@
+{
+  "name": "Smart Vending Platform",
+  "description": "A premium AI-powered interactive 3D vending platform featuring scroll-based animations, customized beverage generator, and real-time operations dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
