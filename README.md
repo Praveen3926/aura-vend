@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+# Aura Vend
 
-This contains everything you need to run your app locally.
+Aura Vend is a smart vending machine management platform designed to streamline product monitoring, inventory tracking, and sales management. The platform enables administrators to manage vending operations efficiently through a centralized dashboard with real-time insights and automated workflows.
 
-View your app in AI Studio: https://ai.studio/apps/a10af5af-c464-4bf1-9e01-e940eac4c695
+## Features
+- Smart Inventory Management
+- Real-Time Stock Monitoring
+- Sales Analytics Dashboard
+- Product Management
+- User-Friendly Interface
+- Responsive Design
+- Secure Authentication
+- Automated Vending Operations
 
-## Run Locally
+## Technologies Used
+- React.js
+- TypeScript
+- Vite
+- Firebase / Backend Services
+- Modern UI Components
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Purpose
+Aura Vend helps businesses optimize vending machine operations by providing data-driven insights, reducing manual effort, and improving customer experience.
